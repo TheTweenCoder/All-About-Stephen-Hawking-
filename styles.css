@@ -1,0 +1,44 @@
+project-folder/
+├── index.html
+├── styles.css
+└── audio/
+    └── your-audio.mp4
+
+
+p{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.header-container{
+    border: ipx solid purple;
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    display: block;
+    width: 100%;
+
+}
+
+#header-btn{
+    background-color: antiquewhite;
+    color: aliceblue;
+    text-decoration: underline;
+    width: 250px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 70px;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+.testemonial-container{
+    margin-top: 20px;
+    background-color: blanchedalmond;
+    height: 200px;
+    width: 100%;
+}
